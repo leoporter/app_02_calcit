@@ -1,0 +1,12 @@
+c:\users\dominik\documents\visual studio 2015\Projects\CalcIt\CalcIt\bin\Debug\CalcIt.exe.config
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\bin\Debug\CalcIt.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\bin\Debug\CalcIt.pdb
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Debug\CalcIt.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Debug\CalcIt.CalcIt.resources
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Debug\CalcIt.Properties.Resources.resources
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Debug\CalcIt.csproj.GenerateResource.Cache
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Debug\CalcIt.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Debug\CalcIt.pdb
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcItWinForms\CalcIt\bin\Debug\CalcIt.exe.config
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcItWinForms\CalcIt\obj\Debug\CalcIt.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcItWinForms\CalcIt\obj\Debug\CalcIt.pdb

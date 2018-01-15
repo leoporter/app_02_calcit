@@ -1,0 +1,8 @@
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\bin\Release\CalcIt.exe.config
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\bin\Release\CalcIt.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\bin\Release\CalcIt.pdb
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Release\CalcIt.CalcIt.resources
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Release\CalcIt.Properties.Resources.resources
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Release\CalcIt.csproj.GenerateResource.Cache
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Release\CalcIt.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\CalcIt\CalcIt\obj\Release\CalcIt.pdb
